@@ -9,6 +9,22 @@
 /* Begin PBXBuildFile section */
 		07FF84FF1D50C9C30027A5E1 /* YPKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 07FF84FE1D50C9C30027A5E1 /* YPKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		07FF85071D50C9DE0027A5E1 /* MacroFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF85061D50C9DE0027A5E1 /* MacroFunctions.swift */; };
+		07FF85291D50CAEC0027A5E1 /* Array+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF850A1D50CAEC0027A5E1 /* Array+Add.swift */; };
+		07FF852A1D50CAEC0027A5E1 /* NotificationCenter+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF850C1D50CAEC0027A5E1 /* NotificationCenter+Add.swift */; };
+		07FF852B1D50CAEC0027A5E1 /* NSBundle+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF850E1D50CAEC0027A5E1 /* NSBundle+Add.swift */; };
+		07FF852C1D50CAEC0027A5E1 /* String+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF85101D50CAEC0027A5E1 /* String+Add.swift */; };
+		07FF852D1D50CAEC0027A5E1 /* UIApplication+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF85121D50CAEC0027A5E1 /* UIApplication+Add.swift */; };
+		07FF852E1D50CAEC0027A5E1 /* UIButton+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF85141D50CAEC0027A5E1 /* UIButton+Add.swift */; };
+		07FF852F1D50CAEC0027A5E1 /* UIColor+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF85161D50CAEC0027A5E1 /* UIColor+Add.swift */; };
+		07FF85301D50CAEC0027A5E1 /* UIDevice+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF85181D50CAEC0027A5E1 /* UIDevice+Add.swift */; };
+		07FF85311D50CAEC0027A5E1 /* UIFont+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF851A1D50CAEC0027A5E1 /* UIFont+Add.swift */; };
+		07FF85321D50CAEC0027A5E1 /* UIImage+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF851C1D50CAEC0027A5E1 /* UIImage+Add.swift */; };
+		07FF85331D50CAEC0027A5E1 /* UINib+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF851E1D50CAEC0027A5E1 /* UINib+Add.swift */; };
+		07FF85341D50CAEC0027A5E1 /* UIStoryBoard+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF85201D50CAEC0027A5E1 /* UIStoryBoard+Add.swift */; };
+		07FF85351D50CAEC0027A5E1 /* UITableVIew+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF85221D50CAEC0027A5E1 /* UITableVIew+Add.swift */; };
+		07FF85361D50CAEC0027A5E1 /* UITableViewCell+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF85241D50CAEC0027A5E1 /* UITableViewCell+Add.swift */; };
+		07FF85371D50CAEC0027A5E1 /* UIView+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF85261D50CAEC0027A5E1 /* UIView+Add.swift */; };
+		07FF85381D50CAEC0027A5E1 /* UIViewController+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07FF85281D50CAEC0027A5E1 /* UIViewController+Add.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +32,22 @@
 		07FF84FE1D50C9C30027A5E1 /* YPKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YPKit.h; sourceTree = "<group>"; };
 		07FF85001D50C9C30027A5E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		07FF85061D50C9DE0027A5E1 /* MacroFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MacroFunctions.swift; sourceTree = "<group>"; };
+		07FF850A1D50CAEC0027A5E1 /* Array+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Array+Add.swift"; sourceTree = "<group>"; };
+		07FF850C1D50CAEC0027A5E1 /* NotificationCenter+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NotificationCenter+Add.swift"; sourceTree = "<group>"; };
+		07FF850E1D50CAEC0027A5E1 /* NSBundle+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSBundle+Add.swift"; sourceTree = "<group>"; };
+		07FF85101D50CAEC0027A5E1 /* String+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Add.swift"; sourceTree = "<group>"; };
+		07FF85121D50CAEC0027A5E1 /* UIApplication+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIApplication+Add.swift"; sourceTree = "<group>"; };
+		07FF85141D50CAEC0027A5E1 /* UIButton+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIButton+Add.swift"; sourceTree = "<group>"; };
+		07FF85161D50CAEC0027A5E1 /* UIColor+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Add.swift"; sourceTree = "<group>"; };
+		07FF85181D50CAEC0027A5E1 /* UIDevice+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIDevice+Add.swift"; sourceTree = "<group>"; };
+		07FF851A1D50CAEC0027A5E1 /* UIFont+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIFont+Add.swift"; sourceTree = "<group>"; };
+		07FF851C1D50CAEC0027A5E1 /* UIImage+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Add.swift"; sourceTree = "<group>"; };
+		07FF851E1D50CAEC0027A5E1 /* UINib+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UINib+Add.swift"; sourceTree = "<group>"; };
+		07FF85201D50CAEC0027A5E1 /* UIStoryBoard+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIStoryBoard+Add.swift"; sourceTree = "<group>"; };
+		07FF85221D50CAEC0027A5E1 /* UITableVIew+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UITableVIew+Add.swift"; sourceTree = "<group>"; };
+		07FF85241D50CAEC0027A5E1 /* UITableViewCell+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UITableViewCell+Add.swift"; sourceTree = "<group>"; };
+		07FF85261D50CAEC0027A5E1 /* UIView+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Add.swift"; sourceTree = "<group>"; };
+		07FF85281D50CAEC0027A5E1 /* UIViewController+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+Add.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,11 +80,163 @@
 		07FF84FD1D50C9C30027A5E1 /* YPKit */ = {
 			isa = PBXGroup;
 			children = (
+				07FF85081D50CAEC0027A5E1 /* Extensions */,
 				07FF84FE1D50C9C30027A5E1 /* YPKit.h */,
 				07FF85061D50C9DE0027A5E1 /* MacroFunctions.swift */,
 				07FF85001D50C9C30027A5E1 /* Info.plist */,
 			);
 			path = YPKit;
+			sourceTree = "<group>";
+		};
+		07FF85081D50CAEC0027A5E1 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				07FF85091D50CAEC0027A5E1 /* Array+ */,
+				07FF850B1D50CAEC0027A5E1 /* NotificationCenter+ */,
+				07FF850D1D50CAEC0027A5E1 /* NSBundle+ */,
+				07FF850F1D50CAEC0027A5E1 /* String+ */,
+				07FF85111D50CAEC0027A5E1 /* UIApplication+ */,
+				07FF85131D50CAEC0027A5E1 /* UIButton+ */,
+				07FF85151D50CAEC0027A5E1 /* UIColor+ */,
+				07FF85171D50CAEC0027A5E1 /* UIDevice+ */,
+				07FF85191D50CAEC0027A5E1 /* UIFont+ */,
+				07FF851B1D50CAEC0027A5E1 /* UIImage+ */,
+				07FF851D1D50CAEC0027A5E1 /* UINib+ */,
+				07FF851F1D50CAEC0027A5E1 /* UIStoryBoard+ */,
+				07FF85211D50CAEC0027A5E1 /* UITableView+ */,
+				07FF85231D50CAEC0027A5E1 /* UITableViewCell+ */,
+				07FF85251D50CAEC0027A5E1 /* UIView+ */,
+				07FF85271D50CAEC0027A5E1 /* UIViewController+ */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		07FF85091D50CAEC0027A5E1 /* Array+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF850A1D50CAEC0027A5E1 /* Array+Add.swift */,
+			);
+			path = "Array+";
+			sourceTree = "<group>";
+		};
+		07FF850B1D50CAEC0027A5E1 /* NotificationCenter+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF850C1D50CAEC0027A5E1 /* NotificationCenter+Add.swift */,
+			);
+			path = "NotificationCenter+";
+			sourceTree = "<group>";
+		};
+		07FF850D1D50CAEC0027A5E1 /* NSBundle+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF850E1D50CAEC0027A5E1 /* NSBundle+Add.swift */,
+			);
+			path = "NSBundle+";
+			sourceTree = "<group>";
+		};
+		07FF850F1D50CAEC0027A5E1 /* String+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF85101D50CAEC0027A5E1 /* String+Add.swift */,
+			);
+			path = "String+";
+			sourceTree = "<group>";
+		};
+		07FF85111D50CAEC0027A5E1 /* UIApplication+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF85121D50CAEC0027A5E1 /* UIApplication+Add.swift */,
+			);
+			path = "UIApplication+";
+			sourceTree = "<group>";
+		};
+		07FF85131D50CAEC0027A5E1 /* UIButton+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF85141D50CAEC0027A5E1 /* UIButton+Add.swift */,
+			);
+			path = "UIButton+";
+			sourceTree = "<group>";
+		};
+		07FF85151D50CAEC0027A5E1 /* UIColor+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF85161D50CAEC0027A5E1 /* UIColor+Add.swift */,
+			);
+			path = "UIColor+";
+			sourceTree = "<group>";
+		};
+		07FF85171D50CAEC0027A5E1 /* UIDevice+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF85181D50CAEC0027A5E1 /* UIDevice+Add.swift */,
+			);
+			path = "UIDevice+";
+			sourceTree = "<group>";
+		};
+		07FF85191D50CAEC0027A5E1 /* UIFont+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF851A1D50CAEC0027A5E1 /* UIFont+Add.swift */,
+			);
+			path = "UIFont+";
+			sourceTree = "<group>";
+		};
+		07FF851B1D50CAEC0027A5E1 /* UIImage+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF851C1D50CAEC0027A5E1 /* UIImage+Add.swift */,
+			);
+			path = "UIImage+";
+			sourceTree = "<group>";
+		};
+		07FF851D1D50CAEC0027A5E1 /* UINib+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF851E1D50CAEC0027A5E1 /* UINib+Add.swift */,
+			);
+			path = "UINib+";
+			sourceTree = "<group>";
+		};
+		07FF851F1D50CAEC0027A5E1 /* UIStoryBoard+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF85201D50CAEC0027A5E1 /* UIStoryBoard+Add.swift */,
+			);
+			path = "UIStoryBoard+";
+			sourceTree = "<group>";
+		};
+		07FF85211D50CAEC0027A5E1 /* UITableView+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF85221D50CAEC0027A5E1 /* UITableVIew+Add.swift */,
+			);
+			path = "UITableView+";
+			sourceTree = "<group>";
+		};
+		07FF85231D50CAEC0027A5E1 /* UITableViewCell+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF85241D50CAEC0027A5E1 /* UITableViewCell+Add.swift */,
+			);
+			path = "UITableViewCell+";
+			sourceTree = "<group>";
+		};
+		07FF85251D50CAEC0027A5E1 /* UIView+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF85261D50CAEC0027A5E1 /* UIView+Add.swift */,
+			);
+			path = "UIView+";
+			sourceTree = "<group>";
+		};
+		07FF85271D50CAEC0027A5E1 /* UIViewController+ */ = {
+			isa = PBXGroup;
+			children = (
+				07FF85281D50CAEC0027A5E1 /* UIViewController+Add.swift */,
+			);
+			path = "UIViewController+";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -133,7 +317,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07FF85311D50CAEC0027A5E1 /* UIFont+Add.swift in Sources */,
+				07FF85361D50CAEC0027A5E1 /* UITableViewCell+Add.swift in Sources */,
+				07FF852E1D50CAEC0027A5E1 /* UIButton+Add.swift in Sources */,
+				07FF85301D50CAEC0027A5E1 /* UIDevice+Add.swift in Sources */,
+				07FF852C1D50CAEC0027A5E1 /* String+Add.swift in Sources */,
+				07FF85321D50CAEC0027A5E1 /* UIImage+Add.swift in Sources */,
+				07FF85351D50CAEC0027A5E1 /* UITableVIew+Add.swift in Sources */,
+				07FF85341D50CAEC0027A5E1 /* UIStoryBoard+Add.swift in Sources */,
+				07FF85371D50CAEC0027A5E1 /* UIView+Add.swift in Sources */,
+				07FF85331D50CAEC0027A5E1 /* UINib+Add.swift in Sources */,
+				07FF85381D50CAEC0027A5E1 /* UIViewController+Add.swift in Sources */,
+				07FF852B1D50CAEC0027A5E1 /* NSBundle+Add.swift in Sources */,
 				07FF85071D50C9DE0027A5E1 /* MacroFunctions.swift in Sources */,
+				07FF85291D50CAEC0027A5E1 /* Array+Add.swift in Sources */,
+				07FF852F1D50CAEC0027A5E1 /* UIColor+Add.swift in Sources */,
+				07FF852D1D50CAEC0027A5E1 /* UIApplication+Add.swift in Sources */,
+				07FF852A1D50CAEC0027A5E1 /* NotificationCenter+Add.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
