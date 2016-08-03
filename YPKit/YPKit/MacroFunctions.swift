@@ -74,9 +74,9 @@ public func MGFactoryButton() ->UIButton{
  - parameter value:
  - parameter prettyPrinted:
  
- - returns: 
+ - returns:
  */
-func JSONStringify(value: AnyObject,prettyPrinted:Bool = false) -> String{
+public func JSONStringify(value: AnyObject,prettyPrinted:Bool = false) -> String{
     let options = prettyPrinted ? NSJSONWritingOptions.PrettyPrinted : NSJSONWritingOptions(rawValue: 0)
     if NSJSONSerialization.isValidJSONObject(value) {
         
