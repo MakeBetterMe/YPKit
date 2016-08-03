@@ -68,5 +68,31 @@ public func MGFactoryButton() ->UIButton{
     return view
 }
 
+/**
+ 字典 or  数组 转换json字符串
+ 
+ - parameter value:
+ - parameter prettyPrinted:
+ 
+ - returns: 
+ */
+func JSONStringify(value: AnyObject,prettyPrinted:Bool = false) -> String{
+    let options = prettyPrinted ? NSJSONWritingOptions.PrettyPrinted : NSJSONWritingOptions(rawValue: 0)
+    if NSJSONSerialization.isValidJSONObject(value) {
+        
+        do{
+            let data = try NSJSONSerialization.dataWithJSONObject(value, options: options)
+            if let string = NSString(data: data, encoding: NSUTF8StringEncoding) {
+                return string as String
+            }
+        }catch {
+            print("error")
+            
+        }
+        
+    }
+    return ""
+}
+
 
 
